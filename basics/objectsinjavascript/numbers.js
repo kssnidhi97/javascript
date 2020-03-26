@@ -14,3 +14,6 @@ let newTodos=[
 ];
 
 const index=newT
+
+hi;
+hello;
